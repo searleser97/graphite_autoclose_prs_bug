@@ -112,10 +112,7 @@
             src: local("Inter Italic"), local("Inter-Italic"), url("https://app.gitbook.com/public/fonts/Inter/Inter-Italic.woff2?v=3.19") format("woff2"),
                     url("https://app.gitbook.com/public/fonts/Inter/Inter-Italic.woff?v=3.19") format("woff");
         }
-        </style>
-<meta name="description" content="" id="__meta-description" />
-<meta name="og:description" content="" id="__meta-og:description" />
-<meta name="og:image" content="https://www.gitbook.com/cdn-cgi/image/height=640,width=1280,fit=contain,dpr=1,format=auto/https%3A%2F%2Fdocs.graphite.dev%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxOAI64ppYV01e9QY1zde%252Fsocialpreview%252FONSS9z28c016dFf3dC5W%252FGraphite%2520-%2520open%2520graph.png%3Falt%3Dmedia%26token%3Dce3d8192-2705-4c73-95b2-6758a98e60ed" id="__meta-og:image" />
+        this is a change
 <meta name="twitter:card" content="summary" id="__meta-twitter:card" />
 <meta name="og:title" content="Getting started with Graphite" id="__meta-og:title" />
 <meta name="twitter:site" content="Graphite Documentation" id="__meta-twitter:site" />
