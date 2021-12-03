@@ -244,9 +244,7 @@ this a second change
 .r-oyd9sg{padding-bottom:4px;padding-top:4px;}
 [stylesheet-group="2.2"]{}
 .r-12vffkv>*{pointer-events:auto;}
-.r-12vffkv{pointer-events:none!important;}
-.r-2jelyo{background-color:rgba(24,28,31,1.00);}
-.r-1y14msn{border-bottom-color:rgba(55,65,81,1.00);}
+third change in this file
 .r-qklmqi{border-bottom-width:1px;}
 .r-111w7nw{box-shadow:0px 1px 2px rgba(0,0,0,0.69);}
 .r-1quu1zo{;}
