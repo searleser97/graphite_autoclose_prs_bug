@@ -332,7 +332,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-tsynxw{text-transform:uppercase;}
 .r-1ow6zhx{margin-left:16px;}
 .r-11wrixw{margin-left:0px;}
-.r-1ip7lgd{color:rgba(40,211,255,1.00);}
+making a change in main, this should update all the branches on top of it
 .r-1472mwg{height:24px;}
 .r-lrsllp{width:24px;}
 .r-8jnfel{min-height:-webkit-min-content;min-height:-moz-min-content;min-height:min-content;}
